@@ -1,0 +1,10 @@
+model_name='vgg16'
+# model_name='densenet201'
+# model_name='densenet121'
+# model_name='xception'
+num_class=10
+onehot=True
+# onehot=False
+size=224
+es_patience=4
+lr_patience=3
